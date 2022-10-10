@@ -1,0 +1,13 @@
+version : 2
+
+sources:
+    - name: bank
+      description : "Bank Marketing"
+      database: abstract-stream-362901
+      schema : bank
+      tables:
+        - name : bank
+
+models:
+  - name: final_project
+    description: Factors affecting bank marketing
